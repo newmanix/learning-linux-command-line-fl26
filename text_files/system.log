@@ -1,0 +1,7 @@
+2025-08-01 08:15:23 INFO Starting backup job
+2025-08-01 08:16:01 WARNING Disk usage over 85%
+2025-08-01 08:16:45 ERROR Backup failed: no space left on device
+2025-08-01 08:17:00 INFO Cleanup started
+2025-08-01 08:17:30 ERROR Could not delete temp files
+2025-08-01 08:18:12 WARNING Retry limit approaching
+2025-08-01 08:19:05 INFO Backup job completed
